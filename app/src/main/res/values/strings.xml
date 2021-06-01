@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NCT Online Class</string>
+    <string name="Name">Enter Your Name</string>
+    <string name="title_home">Home</string>
+    <string name="title_Settings">Settings</string>
+    <string name="title_About">About</string>
+
+</resources>

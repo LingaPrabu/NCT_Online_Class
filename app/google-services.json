@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195353727416",
+    "firebase_url": "https://nct-online-class.firebaseio.com",
+    "project_id": "nct-online-class",
+    "storage_bucket": "nct-online-class.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195353727416:android:e4a51b849ca57b7b49ff4d",
+        "android_client_info": {
+          "package_name": "com.cse.onlineclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195353727416-p6p4a35s3mqisrgrl1q0uos7c64qv1bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cse.onlineclass",
+            "certificate_hash": "f45bb852fc7b180e4d8f92391790628fd38de18e"
+          }
+        },
+        {
+          "client_id": "195353727416-kblnuq26j1eh2vjd6ts4hvs7c16qil2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNUgl6ItviC6WOg2I8Zyc9FXtaIFnYT-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195353727416-kblnuq26j1eh2vjd6ts4hvs7c16qil2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
